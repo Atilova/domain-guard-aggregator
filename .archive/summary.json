@@ -1,0 +1,241 @@
+{
+    "code": "fetched",
+    "summary": {
+      "hostname": "atilova.com",
+      "present": {
+        "a": {
+          "first_seen": "2024-02-11",
+          "values": [
+            {
+              "ip": "104.21.74.244",
+              "count": 0,
+              "organization": "Cloudflare, Inc."
+            },
+            {
+              "ip": "172.67.207.241",
+              "count": 0,
+              "organization": "Cloudflare, Inc."
+            }
+          ],
+          "last_seen": null,
+          "organizations": null
+        },
+        "aaaa": {
+          "first_seen": "2024-02-11",
+          "values": [
+            {
+              "ipv6": "2606:4700:3032::ac43:cff1",
+              "count": 0,
+              "organization": null
+            },
+            {
+              "ipv6": "2606:4700:3033::6815:4af4",
+              "count": 0,
+              "organization": null
+            }
+          ],
+          "last_seen": null,
+          "organizations": null
+        },
+        "mx": null,
+        "ns": {
+          "first_seen": "2024-02-11",
+          "values": [
+            {
+              "nameserver": "shaz.ns.cloudflare.com",
+              "count": 0,
+              "organization": "Cloudflare, Inc."
+            },
+            {
+              "nameserver": "kurt.ns.cloudflare.com",
+              "count": 0,
+              "organization": "Cloudflare, Inc."
+            }
+          ],
+          "last_seen": null,
+          "organizations": null
+        },
+        "soa": {
+          "first_seen": "2024-02-11",
+          "values": [
+            {
+              "ttl": 10000,
+              "email": "dns.cloudflare.com",
+              "count": 0
+            }
+          ],
+          "last_seen": null,
+          "organizations": null
+        },
+        "txt": null
+      },
+      "history": {
+        "a": [
+          {
+            "first_seen": "2024-02-11",
+            "values": [
+              {
+                "ip": "104.21.74.244",
+                "count": 0,
+                "organization": null
+              },
+              {
+                "ip": "172.67.207.241",
+                "count": 0,
+                "organization": null
+              }
+            ],
+            "last_seen": "2024-06-15",
+            "organizations": [
+              "Cloudflare, Inc."
+            ]
+          },
+          {
+            "first_seen": "2024-02-01",
+            "values": [
+              {
+                "ip": "192.64.119.75",
+                "count": 0,
+                "organization": null
+              }
+            ],
+            "last_seen": "2024-02-10",
+            "organizations": [
+              "Namecheap, Inc."
+            ]
+          }
+        ],
+        "aaaa": [],
+        "mx": [
+          {
+            "first_seen": "2024-02-01",
+            "values": [
+              {
+                "priority": 10,
+                "host": "eforward3.registrar-servers.com",
+                "count": null,
+                "organization": null
+              },
+              {
+                "priority": 10,
+                "host": "eforward2.registrar-servers.com",
+                "count": null,
+                "organization": null
+              },
+              {
+                "priority": 10,
+                "host": "eforward1.registrar-servers.com",
+                "count": null,
+                "organization": null
+              },
+              {
+                "priority": 15,
+                "host": "eforward4.registrar-servers.com",
+                "count": null,
+                "organization": null
+              },
+              {
+                "priority": 20,
+                "host": "eforward5.registrar-servers.com",
+                "count": null,
+                "organization": null
+              }
+            ],
+            "last_seen": "2024-02-10",
+            "organizations": [
+              "Namecheap, Inc."
+            ]
+          }
+        ],
+        "ns": [
+          {
+            "first_seen": "2024-02-11",
+            "values": [
+              {
+                "nameserver": "kurt.ns.cloudflare.com",
+                "count": 0,
+                "organization": null
+              },
+              {
+                "nameserver": "shaz.ns.cloudflare.com",
+                "count": 0,
+                "organization": null
+              }
+            ],
+            "last_seen": "2024-06-15",
+            "organizations": [
+              "Cloudflare, Inc."
+            ]
+          },
+          {
+            "first_seen": "2024-02-01",
+            "values": [
+              {
+                "nameserver": "dns1.registrar-servers.com",
+                "count": 0,
+                "organization": null
+              },
+              {
+                "nameserver": "dns2.registrar-servers.com",
+                "count": 0,
+                "organization": null
+              }
+            ],
+            "last_seen": "2024-02-10",
+            "organizations": [
+              "Neustar Security Services",
+              "NeuStar, Inc."
+            ]
+          }
+        ],
+        "soa": [
+          {
+            "first_seen": "2024-02-11",
+            "values": [
+              {
+                "ttl": 10000,
+                "email": "dns.cloudflare.com",
+                "count": 0
+              }
+            ],
+            "last_seen": "2024-06-15",
+            "organizations": [
+              "Cloudflare, Inc."
+            ]
+          },
+          {
+            "first_seen": "2024-02-01",
+            "values": [
+              {
+                "ttl": 43200,
+                "email": "hostmaster.registrar-servers.com",
+                "count": 0
+              }
+            ],
+            "last_seen": "2024-02-10",
+            "organizations": [
+              "Namecheap, Inc."
+            ]
+          }
+        ],
+        "txt": [
+          {
+            "first_seen": "2024-02-01",
+            "values": [
+              {
+                "value": "v=spf1 include:spf.efwd.registrar-servers.com ~all"
+              }
+            ],
+            "last_seen": "2024-02-10",
+            "organizations": null
+          }
+        ]
+      },
+      "subdomains": [
+        "aws",
+        "proxy",
+        "gateway",
+        "www"
+      ]
+    }
+  }
