@@ -1,4 +1,4 @@
-### Domain Guard Aggregator Service
+# Domain Guard Aggregator Service
 The Domain Guard Aggregator Service is a core component of the Domain Guard microservice system. It serves the primary function of gathering information from external APIs and third-party services, aggregating this data into a unified output.
 
 ## Key Features
